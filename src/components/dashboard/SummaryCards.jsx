@@ -1,5 +1,5 @@
 import React from 'react'
-import dashboardHandler from '../../handlers/dashBoardHandler'
+import dashboardHandler from '../../handlers/dashboardHandler'
 import { BanknoteArrowUp } from 'lucide-react';
 import gsap from "gsap";
 import { useGSAP } from "@gsap/react";
